@@ -30,7 +30,15 @@ tested 3000 images
 • The project demonstrated the feasibility of machine learning for early cancer detection, offering a robust tool for clinical 
 decision-making.
 
-2. ** Emotion Recognition Using EEG Sensors (December 2023) **
+2**.Air Pollution Modeling and Analysis (Master’s Project, ongoing)**
+• Conducting an analysis of the National Clean Air Programme (NCAP) using R, employing panel data analysis, linear 
+regression, and multiple regression techniques. 
+• Aimed at evaluating the program’s effectiveness in reducing air pollution levels across key regions in India. 
+• Exploring trends and relationships in air quality data to identify areas for improvement in policy implementation. 
+• Research is ongoing, with preliminary findings expected to provide evidence-based policy recommendations for 
+enhancing air quality management
+
+3. ** Emotion Recognition Using EEG Sensors (December 2023) **
 
 • Classified emotional states based on frequency bands (Alpha, Beta, Gamma, Theta, Delta). 
 • Implemented models including SVM, Decision Trees, Random Forest, and k-NN. 
@@ -39,14 +47,7 @@ responses.
 • This project contributed to advancements in emotion recognition technology, with potential applications in mental health 
 and human-computer interaction. 
 
-3.**Air Pollution Modeling and Analysis (Master’s Project, ongoing)**
 
-• Conducting an analysis of the National Clean Air Programme (NCAP) using R, employing panel data analysis, linear 
-regression, and multiple regression techniques. 
-• Aimed at evaluating the program’s effectiveness in reducing air pollution levels across key regions in India. 
-• Exploring trends and relationships in air quality data to identify areas for improvement in policy implementation. 
-• Research is ongoing, with preliminary findings expected to provide evidence-based policy recommendations for 
-enhancing air quality management
 ---
 
 ## Tutoring & Academic Support Experience:  
